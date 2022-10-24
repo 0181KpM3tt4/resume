@@ -1,0 +1,47 @@
+body{
+   background-color:#B1D7B4;
+}
+hr {
+  background-color:grey;
+  border-style: none;
+  border-top-style: dotted;
+  height: 10px;
+  border-width: 10px;
+  border-color: yellow;
+  /* width: 75%; */
+  margin-top: 0px;
+}
+img{
+  height: 250px;
+  width: 250px;
+}
+h1 , h3{
+  /* pigments */
+  color:#42855B;
+  font-family: 'Mitr', sans-serif;
+}
+/* div{
+  height: 300px;
+  background-color: violet;
+} */
+.example-div {
+    height: 225px;
+    width: 300px;
+    background-color: yellow;
+    border: solid;
+    border-width: 50px;
+    border-top: 0px;
+    border-color: white;
+    margin: 10px;
+}
+table {
+    border-collapse: collapse;
+    width: 60%;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+    width: auto;
+}
